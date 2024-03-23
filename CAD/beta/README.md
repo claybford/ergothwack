@@ -1,0 +1,1 @@
+Note: these CAD files are essentially the same, with the right side designed as a mirror image on the left (this is how the entire beta ergoTHWACK was designed). The only differences between these files are which bodies & components are visible on which.
